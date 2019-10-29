@@ -1,0 +1,6 @@
+%{
+  "decimal": {:hex, :decimal, "1.8.0", "ca462e0d885f09a1c5a342dbd7c1dcf27ea63548c65a65e67334f4b61803822e", [:mix], [], "hexpm"},
+  "hammox": {:git, "https://github.com/msz/hammox.git", "f172d5b0b5351eb7338515b0add5b2bb14d35ffe", []},
+  "mox": {:hex, :mox, "0.5.1", "f86bb36026aac1e6f924a4b6d024b05e9adbed5c63e8daa069bd66fb3292165b", [:mix], [], "hexpm"},
+  "ordinal": {:hex, :ordinal, "0.1.0", "2f7a1a64ff4be44b8a674718bb00d1584188fe92fa2fa48b95b1e72096d74a34", [:mix], [], "hexpm"},
+}
